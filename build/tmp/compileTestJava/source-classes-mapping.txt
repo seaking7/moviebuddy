@@ -1,0 +1,2 @@
+moviebuddy/domain/MovieFinderTest.java
+ moviebuddy.domain.MovieFinderTest
